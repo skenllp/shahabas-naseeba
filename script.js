@@ -7,12 +7,12 @@
 
   /* ---------- Configuration (edit here) ---------- */
   const CONFIG = {
-    // Timing: 7:00 PM - 10:00 PM, 11:00 PM - 12:00 AM celebration
-    eventStart: '2026-12-29T19:00:00+05:30',     // Asia/Kolkata (IST)
-    eventEnd: '2026-12-30T00:00:00+05:30',
-    title: 'Wedding Celebration of Naseeba Jaleel & Muhammed Shahabas',
+    // Reception: 31 December 2026, 7:00 PM - 10:00 PM, 11:00 PM - 12:00 AM celebration
+    eventStart: '2026-12-31T19:00:00+05:30',     // Asia/Kolkata (IST)
+    eventEnd: '2027-01-01T00:00:00+05:30',
+    title: 'Wedding Reception of Naseeba Jaleel & Muhammed Shahabas',
     location: 'Mangalassery Pavillion, S Aduvassery Rd, Thadikkalkadavu, Athani, Kerala 683578',
-    description: 'Wedding ceremony and celebration of Naseeba Jaleel & Muhammed Shahabas. Timing: 7:00 PM – 10:00 PM, 11:00 PM – 12:00 AM Celebration. Venue: Mangalassery Pavillion, Athani. Location map: https://maps.app.goo.gl/VrD6MLMSEKfKiFjh8?g_st=ic',
+    description: 'Wedding reception and celebration of Naseeba Jaleel & Muhammed Shahabas. Date: Thursday, 31 December 2026. Timing: 7:00 PM – 10:00 PM, 11:00 PM – 12:00 AM Celebration. Venue: Mangalassery Pavillion, Athani. Location map: https://maps.app.goo.gl/VrD6MLMSEKfKiFjh8?g_st=ic',
     musicVolume: 0.45,
   };
 
